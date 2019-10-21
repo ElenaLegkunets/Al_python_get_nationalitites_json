@@ -1,0 +1,824 @@
+{
+    "nationality": [
+        {
+            "country": "Afghanistan",
+            "nationality": "Afghan",
+            "icao": "AFG"
+        },
+        {
+            "country": "Albania",
+            "nationality": "Albanian",
+            "icao": "ALB"
+        },
+        {
+            "country": "Algeria",
+            "nationality": "Algerian",
+            "icao": "DZA"
+        },
+        {
+            "country": "Andorra",
+            "nationality": "Andorran",
+            "icao": "AND"
+        },
+        {
+            "country": "Angola",
+            "nationality": "Angolan",
+            "icao": "AGO"
+        },
+        {
+            "country": "Argentina",
+            "nationality": "Argentine",
+            "icao": "ARG"
+        },
+        {
+            "country": "Armenia",
+            "nationality": "Armenian",
+            "icao": "ARM"
+        },
+        {
+            "country": "Australia",
+            "nationality": "Australian",
+            "icao": "AUS"
+        },
+        {
+            "country": "Austria",
+            "nationality": "Austrian",
+            "icao": "AUT"
+        },
+        {
+            "country": "Azerbaijan",
+            "nationality": "Azerbaijani",
+            "icao": "AZE"
+        },
+        {
+            "country": "Bahamas",
+            "nationality": "Bahamian",
+            "icao": "BHS"
+        },
+        {
+            "country": "Bahrain",
+            "nationality": "Bahraini",
+            "icao": "BHR"
+        },
+        {
+            "country": "Bangladesh",
+            "nationality": "Bangladeshi",
+            "icao": "BGD"
+        },
+        {
+            "country": "Barbados",
+            "nationality": "Barbadian",
+            "icao": "BRB"
+        },
+        {
+            "country": "Belarus",
+            "nationality": "Belarusian\u00a0or\u00a0Belarusan",
+            "icao": "BLR"
+        },
+        {
+            "country": "Belgium",
+            "nationality": "Belgian",
+            "icao": "BEL"
+        },
+        {
+            "country": "Belize",
+            "nationality": "Belizean",
+            "icao": "BLZ"
+        },
+        {
+            "country": "Benin",
+            "nationality": "Beninese",
+            "icao": "BEN"
+        },
+        {
+            "country": "Bhutan",
+            "nationality": "Bhutanese",
+            "icao": "BTN"
+        },
+        {
+            "country": "Bosnia Herzegovina",
+            "nationality": "Bosnian",
+            "icao": "BIH"
+        },
+        {
+            "country": "Botswana",
+            "nationality": "Batswana",
+            "icao": "BWA"
+        },
+        {
+            "country": "Brazil",
+            "nationality": "Brazilian",
+            "icao": "BRA"
+        },
+        {
+            "country": "Burkina Faso",
+            "nationality": "Burkinese",
+            "icao": "BFA"
+        },
+        {
+            "country": "Bulgaria",
+            "nationality": "Bulgarian",
+            "icao": "BGR"
+        },
+        {
+            "country": "Burundi",
+            "nationality": "Burundian",
+            "icao": "BDI"
+        },
+        {
+            "country": "Cambodia",
+            "nationality": "Cambodian",
+            "icao": "KHM"
+        },
+        {
+            "country": "Cameroon",
+            "nationality": "Cameroonian",
+            "icao": "CMR"
+        },
+        {
+            "country": "Canada",
+            "nationality": "Canadian",
+            "icao": "CAN"
+        },
+        {
+            "country": "Central African Republic",
+            "nationality": "African",
+            "icao": "CAF"
+        },
+        {
+            "country": "Chad",
+            "nationality": "Chadian",
+            "icao": "TCD"
+        },
+        {
+            "country": "Chile",
+            "nationality": "Chilean",
+            "icao": "CHL"
+        },
+        {
+            "country": "China",
+            "nationality": "Chinese",
+            "icao": "CHN"
+        },
+        {
+            "country": "Colombia",
+            "nationality": "Colombian",
+            "icao": "COL"
+        },
+        {
+            "country": "Congo",
+            "nationality": "Congolese",
+            "icao": "COG"
+        },
+        {
+            "country": "Cote d'Ivoire",
+            "nationality": "Ivorian",
+            "icao": "CIV"
+        },
+        {
+            "country": "Costa Rica",
+            "nationality": "Costa Rican",
+            "icao": "CRI"
+        },
+        {
+            "country": "Cyprus",
+            "nationality": "Cypriot",
+            "icao": "CYP"
+        },
+        {
+            "country": "Croatia",
+            "nationality": "Croatian",
+            "icao": "HRV"
+        },
+        {
+            "country": "Cuba",
+            "nationality": "Cuban",
+            "icao": "CUB"
+        },
+        {
+            "country": "Czech",
+            "nationality": "Czech",
+            "icao": "CZE"
+        },
+        {
+            "country": "North Korea",
+            "nationality": "North Korean",
+            "icao": "PRK"
+        },
+        {
+            "country": "Democratic Republic of the Congo",
+            "nationality": "Congolese",
+            "icao": "COD"
+        },
+        {
+            "country": "Djibouti",
+            "nationality": "Djiboutian",
+            "icao": "DJI"
+        },
+        {
+            "country": "Dominica",
+            "nationality": "Dominican",
+            "icao": "DMA"
+        },
+        {
+            "country": "Denmark",
+            "nationality": "Danish",
+            "icao": "DNK"
+        },
+        {
+            "country": "Dominican Republic",
+            "nationality": "Dominican",
+            "icao": "DOM"
+        },
+        {
+            "country": "Equatorial Guinea",
+            "nationality": "Guinean",
+            "icao": "GNQ"
+        },
+        {
+            "country": "Eritrea",
+            "nationality": "Eritrean",
+            "icao": "ERI"
+        },
+        {
+            "country": "Ecuador",
+            "nationality": "Ecuadorian",
+            "icao": "ECU"
+        },
+        {
+            "country": "Egypt",
+            "nationality": "Egyptian",
+            "icao": "EGY"
+        },
+        {
+            "country": "El Salvador",
+            "nationality": "Salvadorian",
+            "icao": "SLV"
+        },
+        {
+            "country": "Estonia",
+            "nationality": "Estonian",
+            "icao": "EST"
+        },
+        {
+            "country": "Ethiopia",
+            "nationality": "Ethiopian",
+            "icao": "ETH"
+        },
+        {
+            "country": "Fiji",
+            "nationality": "Fijian",
+            "icao": "FJI"
+        },
+        {
+            "country": "Finland",
+            "nationality": "Finnish",
+            "icao": "FIN"
+        },
+        {
+            "country": "Gabon",
+            "nationality": "Gabonese",
+            "icao": "GAB"
+        },
+        {
+            "country": "Gambia",
+            "nationality": "Gambian",
+            "icao": "GMB"
+        },
+        {
+            "country": "Georgia",
+            "nationality": "Georgian",
+            "icao": "GEO"
+        },
+        {
+            "country": "Germany",
+            "nationality": "German",
+            "icao": "DEU"
+        },
+        {
+            "country": "Ghana",
+            "nationality": "Ghanaian",
+            "icao": "GHA"
+        },
+        {
+            "country": "Grenada",
+            "nationality": "Grenadian",
+            "icao": "GRD"
+        },
+        {
+            "country": "Greece",
+            "nationality": "Greek",
+            "icao": "GRC"
+        },
+        {
+            "country": "Guinea",
+            "nationality": "Guinean",
+            "icao": "GIN"
+        },
+        {
+            "country": "Guinea-Bissau",
+            "nationality": "Guinean",
+            "icao": "GNB"
+        },
+        {
+            "country": "Guatemala",
+            "nationality": "Guatemalan",
+            "icao": "GTM"
+        },
+        {
+            "country": "Guyana",
+            "nationality": "Guyanese",
+            "icao": "GUY"
+        },
+        {
+            "country": "Haiti",
+            "nationality": "Haitian",
+            "icao": "HTI"
+        },
+        {
+            "country": "Honduras",
+            "nationality": "Honduran",
+            "icao": "HND"
+        },
+        {
+            "country": "Hungary",
+            "nationality": "Hungarian",
+            "icao": "HUN"
+        },
+        {
+            "country": "Iceland",
+            "nationality": "Icelandic",
+            "icao": "ISL"
+        },
+        {
+            "country": "India",
+            "nationality": "Indian",
+            "icao": "IND"
+        },
+        {
+            "country": "Kazakhstan",
+            "nationality": "Kazakh",
+            "icao": "KAZ"
+        },
+        {
+            "country": "Indonesia",
+            "nationality": "Indonesian",
+            "icao": "IDN"
+        },
+        {
+            "country": "Iran",
+            "nationality": "Iranian",
+            "icao": "IRN"
+        },
+        {
+            "country": "Iraq",
+            "nationality": "Iraqi",
+            "icao": "IRQ"
+        },
+        {
+            "country": "Ireland",
+            "nationality": "Irish",
+            "icao": "IRL"
+        },
+        {
+            "country": "Israel",
+            "nationality": "Israeli",
+            "icao": "ISR"
+        },
+        {
+            "country": "Italy",
+            "nationality": "Italian",
+            "icao": "ITA"
+        },
+        {
+            "country": "Jamaica",
+            "nationality": "Jamaican",
+            "icao": "JAM"
+        },
+        {
+            "country": "Japan",
+            "nationality": "Japanese",
+            "icao": "JPN"
+        },
+        {
+            "country": "Jordan",
+            "nationality": "Jordanian",
+            "icao": "JOR"
+        },
+        {
+            "country": "Kenya",
+            "nationality": "Kenyan",
+            "icao": "KEN"
+        },
+        {
+            "country": "Kyrgyzstan",
+            "nationality": "Kyrgyz",
+            "icao": "KGZ"
+        },
+        {
+            "country": "Kuwait",
+            "nationality": "Kuwaiti",
+            "icao": "KWT"
+        },
+        {
+            "country": "Latvia",
+            "nationality": "Latvian",
+            "icao": "LVA"
+        },
+        {
+            "country": "Lebanon",
+            "nationality": "Lebanese",
+            "icao": "LBN"
+        },
+        {
+            "country": "Liberia",
+            "nationality": "Liberian",
+            "icao": "LBR"
+        },
+        {
+            "country": "Libya",
+            "nationality": "Libyan",
+            "icao": "LBY"
+        },
+        {
+            "country": "Lithuania",
+            "nationality": "Lithuanian",
+            "icao": "LTU"
+        },
+        {
+            "country": "Madagascar",
+            "nationality": "Madagascan",
+            "icao": "MDG"
+        },
+        {
+            "country": "Malawi",
+            "nationality": "Malawian",
+            "icao": "MWI"
+        },
+        {
+            "country": "Maldives",
+            "nationality": "Maldivian",
+            "icao": "MDV"
+        },
+        {
+            "country": "Malaysia",
+            "nationality": "Malaysian",
+            "icao": "MYS"
+        },
+        {
+            "country": "Mali",
+            "nationality": "Malian",
+            "icao": "MLI"
+        },
+        {
+            "country": "Malta",
+            "nationality": "Maltese",
+            "icao": "MLT"
+        },
+        {
+            "country": "Mauritania",
+            "nationality": "Mauritanian",
+            "icao": "MRT"
+        },
+        {
+            "country": "Mauritius",
+            "nationality": "Mauritian",
+            "icao": "MUS"
+        },
+        {
+            "country": "Montenegro",
+            "nationality": "Montenegrin",
+            "icao": "MNE"
+        },
+        {
+            "country": "Mexico",
+            "nationality": "Mexican",
+            "icao": "MEX"
+        },
+        {
+            "country": "Mongolia",
+            "nationality": "Mongolian",
+            "icao": "MNG"
+        },
+        {
+            "country": "Myanmar",
+            "nationality": "Burmese",
+            "icao": "MMR"
+        },
+        {
+            "country": "Morocco",
+            "nationality": "Moroccan",
+            "icao": "MAR"
+        },
+        {
+            "country": "Mozambique",
+            "nationality": "Mozambican",
+            "icao": "MOZ"
+        },
+        {
+            "country": "Namibia",
+            "nationality": "Namibian",
+            "icao": "NAM"
+        },
+        {
+            "country": "Nepal",
+            "nationality": "Nepalese",
+            "icao": "NPL"
+        },
+        {
+            "country": "Netherlands",
+            "nationality": "Dutch",
+            "icao": "NLD"
+        },
+        {
+            "country": "Niger",
+            "nationality": "Nigerien",
+            "icao": "NER"
+        },
+        {
+            "country": "New Zealand",
+            "nationality": "New Zealand",
+            "icao": "NZL"
+        },
+        {
+            "country": "Nicaragua",
+            "nationality": "Nicaraguan",
+            "icao": "NIC"
+        },
+        {
+            "country": "Nigeria",
+            "nationality": "Nigerian",
+            "icao": "NGA"
+        },
+        {
+            "country": "Oman",
+            "nationality": "Omani",
+            "icao": "OMN"
+        },
+        {
+            "country": "Pakistan",
+            "nationality": "Pakistani",
+            "icao": "PAK"
+        },
+        {
+            "country": "Papua New Guinea",
+            "nationality": "Guinean",
+            "icao": "PNG"
+        },
+        {
+            "country": "Panama",
+            "nationality": "Panamanian",
+            "icao": "PAN"
+        },
+        {
+            "country": "Paraguay",
+            "nationality": "Paraguayan",
+            "icao": "PRY"
+        },
+        {
+            "country": "Peru",
+            "nationality": "Peruvian",
+            "icao": "PER"
+        },
+        {
+            "country": "Philippines",
+            "nationality": "Philippine",
+            "icao": "PHL"
+        },
+        {
+            "country": "Poland",
+            "nationality": "Polish",
+            "icao": "POL"
+        },
+        {
+            "country": "Portugal",
+            "nationality": "Portuguese",
+            "icao": "PRT"
+        },
+        {
+            "country": "Qatar",
+            "nationality": "Qatari",
+            "icao": "QAT"
+        },
+        {
+            "country": "South Korea",
+            "nationality": "Korean",
+            "icao": "KOR"
+        },
+        {
+            "country": "Moldova",
+            "nationality": "Moldovan",
+            "icao": "MDA"
+        },
+        {
+            "country": "Romania",
+            "nationality": "Romanian",
+            "icao": "ROU"
+        },
+        {
+            "country": "Russia",
+            "nationality": "Russian",
+            "icao": "RUS"
+        },
+        {
+            "country": "Rwanda",
+            "nationality": "Rwandan",
+            "icao": "RWA"
+        },
+        {
+            "country": "Samoa",
+            "nationality": "Samoan",
+            "icao": "WSM"
+        },
+        {
+            "country": "Saudi Arabia",
+            "nationality": "Saudi",
+            "icao": "SAU"
+        },
+        {
+            "country": "Senegal",
+            "nationality": "Senegalese",
+            "icao": "SEN"
+        },
+        {
+            "country": "Serbia",
+            "nationality": "Serbian",
+            "icao": "SRB"
+        },
+        {
+            "country": "Sierra Leone",
+            "nationality": "Sierra Leonian",
+            "icao": "SLE"
+        },
+        {
+            "country": "Singapore",
+            "nationality": "Singaporean",
+            "icao": "SGP"
+        },
+        {
+            "country": "Slovakia",
+            "nationality": "Slovak",
+            "icao": "SVK"
+        },
+        {
+            "country": "Slovenia",
+            "nationality": "Slovenian",
+            "icao": "SVN"
+        },
+        {
+            "country": "Somalia",
+            "nationality": "Somali",
+            "icao": "SOM"
+        },
+        {
+            "country": "South Africa",
+            "nationality": "South African",
+            "icao": "ZAF"
+        },
+        {
+            "country": "Sudan",
+            "nationality": "Sudanese",
+            "icao": "SSD"
+        },
+        {
+            "country": "Spain",
+            "nationality": "Spanish",
+            "icao": "ESP"
+        },
+        {
+            "country": "Sri Lanka",
+            "nationality": "Sri Lankan",
+            "icao": "LKA"
+        },
+        {
+            "country": "Sudan",
+            "nationality": "Sudanese",
+            "icao": "SDN"
+        },
+        {
+            "country": "Suriname",
+            "nationality": "Surinamese",
+            "icao": "SUR"
+        },
+        {
+            "country": "Swaziland",
+            "nationality": "Swazi",
+            "icao": "SWZ"
+        },
+        {
+            "country": "Sweden",
+            "nationality": "Swedish",
+            "icao": "SWE"
+        },
+        {
+            "country": "Syria",
+            "nationality": "Syrian",
+            "icao": "SYR"
+        },
+        {
+            "country": "Tajikistan",
+            "nationality": "Tajikistani",
+            "icao": "TJK"
+        },
+        {
+            "country": "Thailand",
+            "nationality": "Thai",
+            "icao": "THA"
+        },
+        {
+            "country": "Togo",
+            "nationality": "Togolese",
+            "icao": "TGO"
+        },
+        {
+            "country": "Tonga",
+            "nationality": "Tongan",
+            "icao": "TON"
+        },
+        {
+            "country": "Trinidad and Tobago",
+            "nationality": "Trinidadian",
+            "icao": "TTO"
+        },
+        {
+            "country": "Tunisia",
+            "nationality": "Tunisian",
+            "icao": "TUN"
+        },
+        {
+            "country": "Turkey",
+            "nationality": "Turkish",
+            "icao": "TUR"
+        },
+        {
+            "country": "Turkmenistan",
+            "nationality": "Turkmen",
+            "icao": "TKM"
+        },
+        {
+            "country": "Tuvalu",
+            "nationality": "Tuvaluan",
+            "icao": "TUV"
+        },
+        {
+            "country": "Uganda",
+            "nationality": "Ugandan",
+            "icao": "UGA"
+        },
+        {
+            "country": "Ukraine",
+            "nationality": "Ukrainian",
+            "icao": "UKR"
+        },
+        {
+            "country": "United Arab Emirates",
+            "nationality": "Emirati",
+            "icao": "ARE"
+        },
+        {
+            "country": "United Kingdom",
+            "nationality": "British",
+            "icao": "GBR"
+        },
+        {
+            "country": "Uruguay",
+            "nationality": "Uruguayan",
+            "icao": "URY"
+        },
+        {
+            "country": "Uzbekistan",
+            "nationality": "Uzbek",
+            "icao": "UZB"
+        },
+        {
+            "country": "Vanuatu",
+            "nationality": "Vanuatuan",
+            "icao": "VUT"
+        },
+        {
+            "country": "Venezuela",
+            "nationality": "Venezuelan",
+            "icao": "VEN"
+        },
+        {
+            "country": "VietNam",
+            "nationality": "Vietnamese",
+            "icao": "VNM"
+        },
+        {
+            "country": "Yemen",
+            "nationality": "Yemeni",
+            "icao": "YEM"
+        },
+        {
+            "country": "Zambia",
+            "nationality": "Zambian",
+            "icao": "ZMB"
+        },
+        {
+            "country": "Zimbabwe",
+            "nationality": "Zimbabwean",
+            "icao": "ZWE"
+        }
+    ]
+}
